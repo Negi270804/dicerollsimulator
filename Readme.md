@@ -4,13 +4,6 @@ A fun and interactive web application that simulates rolling a dice. Built using
 
 ---
 
-### 🚀 Live Demo
-
-[🔗 Click here to try it live](https://Negi270804.github.io/dice-roll-simulator/
-)
-
----
-
 ### 🛠️ Tech Stack
 
 * **HTML5** – Structure of the web page
@@ -67,7 +60,7 @@ That’s it — no extra installation needed!
 ### 📬 Contact
 
 * **GitHub**: [Negi270804](https://github.com/Negi270804)
-* **LinkedIn**: [nikhil-negi-0bb166328](https://www.linkedin.com/in/nikhil-negi-0bb166328)
+* **LinkedIn**: [Nikhil Negi](https://www.linkedin.com/in/nikhil-negi-0bb166328)
 
 ---
 
